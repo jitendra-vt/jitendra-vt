@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm currently a part time graduate student.
+- I'm currently learning on using AI for software engineering.
+
 <!--
 **jitendra-vt/jitendra-vt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
